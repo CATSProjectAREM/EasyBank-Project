@@ -8,12 +8,16 @@
 
 ## Organización del repositorio
 
-* Item 1
-  * Item1 a
-* Item 2
-  * Item 2a
-  * Item 2b
-    * Item 2ba
+* assets : imagenes y plugins para la webb app
+* models : modelos
+* sql : Creación tablas, poblado y coneccion datos
+* webApp : archivos .index de paginas
+  * css
+  * img
+  * js
+  * node_modules
+  * scss
+* README.md -> Readme del proyecto
 
 ## Link del aplicativo funcional montado en AWS S3
  [Link App AWS S3](http://appeasybank.s3-website-us-west-2.amazonaws.com/lite/signup.html)
