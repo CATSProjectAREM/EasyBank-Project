@@ -5,7 +5,9 @@
  ## Link del Articulo del proyecto
  [Link Articulo](https://docs.google.com/document/d/1FeRlfBMtiEHMyl7nXBI0excvgZAwu_5BgjrkK0MrXWI/edit?usp=sharing)
    
- ## Autor
+ ## Autores
  * **ANDRES DAVID VASQUEZ IBAÑEZ** - *Initial work* - [VASHIGO](https://github.com/vashigo)
+  * **PEDRO JOSE MAYORGA NAVARRETE** - *Initial work* - [VASHIGO](https://github.com/unknownmastercoder)
+ 
  ## Licencia
  This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details
