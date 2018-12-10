@@ -1,6 +1,8 @@
 # PROYECTO FINAL AREM EASYBANK
 
-![logo](https://user-images.githubusercontent.com/26507566/49768049-e581e280-fca8-11e8-8a61-b653df5bd26f.png)
+<p align="center">
+ <img width="300" height="300" src="https://user-images.githubusercontent.com/26507566/49768049-e581e280-fca8-11e8-8a61-b653df5bd26f.png">
+</p>
 
  EasyBank es una plataforma que te deja crear una cuenta de ahorros simplificada desde tu celular o navegador web. Desde esa cuenta puedes enviar plata, sacarla en cajeros, pagar en datáfonos, en PSE, crear metas de ahorro, recargar tu línea celular y muchas cosas más. No necesitas tener cuenta en otro banco. Para descubrir todo lo que puedes hacer con EasyBank.
 
