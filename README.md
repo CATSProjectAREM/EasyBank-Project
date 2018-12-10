@@ -2,7 +2,16 @@
 
  EasyBank es una plataforma que te deja crear una cuenta de ahorros simplificada desde tu celular o navegador web. Desde esa cuenta puedes enviar plata, sacarla en cajeros, pagar en datáfonos, en PSE, crear metas de ahorro, recargar tu línea celular y muchas cosas más. No necesitas tener cuenta en otro banco. Para descubrir todo lo que puedes hacer con EasyBank.
 
-## Link del aplicativo funcional montado en AMAZON s3
+## Organización del repositorio
+
+* Item 1
+  * Item1 a
+* Item 2
+  * Item 2a
+  * Item 2b
+    * Item 2ba
+
+## Link del aplicativo funcional montado en AWS S3
  [Link App AWS S3](http://appeasybank.s3-website-us-west-2.amazonaws.com/lite/signup.html)
  
 ## Link del Articulo del proyecto
