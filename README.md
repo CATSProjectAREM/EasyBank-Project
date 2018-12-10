@@ -32,6 +32,8 @@
 ## Licencia
  This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details
  
+## Prototipo imagenes funcionalidades
+ 
 . | . | .
 ------------ | ------------- | ------------- 
 ![1](https://user-images.githubusercontent.com/26507566/49767017-f4669600-fca4-11e8-8c96-d435c9a8764c.png) | ![2](https://user-images.githubusercontent.com/26507566/49767018-f4669600-fca4-11e8-928e-7208e6cdc62b.png) | ![3](https://user-images.githubusercontent.com/26507566/49767019-f4ff2c80-fca4-11e8-9460-d4f65ec827a1.png)
