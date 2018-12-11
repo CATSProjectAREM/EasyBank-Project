@@ -18,12 +18,13 @@
   * node_modules
   * scss
 * README.md -> Readme del proyecto
+* Documento Final Proyecto.pdf
 
 ## Link del aplicativo funcional montado en AWS S3
  [Link App AWS S3](http://appeasybank.s3-website-us-west-2.amazonaws.com/lite/signup.html)
  
 ## Link del Articulo del proyecto
- [Link Articulo](https://docs.google.com/document/d/1FeRlfBMtiEHMyl7nXBI0excvgZAwu_5BgjrkK0MrXWI/edit?usp=sharing)
+ [Link Articulo](https://drive.google.com/file/d/1xRarph-vgA--_FQXNKi8eBxbM7HJCcjr/view?usp=sharing)
    
 ## Autores
  * **ANDRES DAVID VASQUEZ IBAÑEZ** - *Initial work* - [vashigo](https://github.com/vashigo)
